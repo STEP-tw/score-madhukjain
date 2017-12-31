@@ -36,6 +36,7 @@ Position.prototype.turnRight=function() {
 }
 
 Position.prototype.isSameCoordAs=function(other) {
+  console.log(other);
   return this.x==other.x && this.y==other.y;
 }
 

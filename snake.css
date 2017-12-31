@@ -24,8 +24,15 @@
   background-color: blue;
   border-radius: 50%;
 }
+/*<<<<<<< HEAD*/
 p{
   margin-left: 250px;
   font-size: 40px;
+}
+/*=======*/
 
+.super-food {
+  background-color: green;
+  border-radius: 50%;
+/*>>>>>>> 0822f617b6e86a915098e0ffc3b43a84d1c6d94b*/
 }
