@@ -59,3 +59,7 @@ Game.prototype.createFood=function() {
 Game.prototype.increaseScore = function(){
   this.score+=10;
 }
+
+Game.prototype.getScore = function(){
+  return this.score;
+}
